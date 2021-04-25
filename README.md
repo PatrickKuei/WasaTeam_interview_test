@@ -11,6 +11,7 @@ npm start
   - React Redux
   - React Icon
   - Axios
+  - Expo
   
 - feature
   - RWD for desktop browser and cross platform mobile
